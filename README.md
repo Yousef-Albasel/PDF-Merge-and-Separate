@@ -2,7 +2,7 @@
 a small python project to merge and separate pdf files efficiently 
 ![Screenshot_1](https://github.com/Yousef-Albasel/PDF-Merge-and-Separate/assets/111648493/5509eb18-d21b-44b7-a224-38b7784d1f3a)
 
-**1 - Get PDF Information **
+**1 - Get PDF Information**
      - to get the name and author of a PDF
      
 **2 - Extract PDF Text**
