@@ -34,3 +34,12 @@ a small python project to merge and separate pdf files efficiently
      
 **11 - Exit**
      - bye 
+
+# How to install it 
+
+1 - Install these dependencies in your local machine
+`pip install PyPDF2`
+
+2 - Open your CMD , Navigate to the directory where the code is
+
+3 - Run: ` py main.py `
